@@ -1,34 +1,23 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/tallywilsher/master/" alt="Tally Wilsher" />
+  <img src="https://raw.githubusercontent.com/tallywilsher/tallywilsher/master/tallywilsherheader.gif" alt="Tally Wilsher" />
 </h1>
 
-## Heyo! 👋
-I'm Tally, Software Engineering lifetime learner
+<h1 align="center"> Heyo! 👋 </h1>
+<h1 align="center">I'm Tally, Software Engineering Brit 🇬🇧 living in the USA 🇺🇸</h1>
 
 - 👨‍💻 Working at HealthEquity
-- Learning Data Structures & Algorithms
-- Building a Weather Forcast App
+- 🧐 I'm currently learning Data Structures & Algorithms
+- 🌦 I'm currently building a Weather Forecast App
 
-## Skills
+<h1 align="center"> Skills </h1>
+
 - 👨‍💻 TypeScript, JavaScript, C# etc...
-- ⚙️ Angular, React
-- 👁️ SASS, CSS
-- 💽 MySQL, SQL
+- ⚙️ Angular, Node, React
+- 🖍 SASS, CSS
+- 💿 MySQL, SQL
 
-## Contact
 
 
 <!--
 **TallyWilsher/TallyWilsher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
