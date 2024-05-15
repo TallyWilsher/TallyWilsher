@@ -1,4 +1,22 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/tallywilsher/master/" alt="Tally Wilsher" />
+</h1>
+
+## Heyo! 👋
+I'm Tally, Software Engineering lifetime learner
+
+- 👨‍💻 Working at HealthEquity
+- Learning Data Structures & Algorithms
+- Building a Weather Forcast App
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, C# etc...
+- ⚙️ Angular, React
+- 👁️ SASS, CSS
+- 💽 MySQL, SQL
+
+## Contact
+
 
 <!--
 **TallyWilsher/TallyWilsher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
